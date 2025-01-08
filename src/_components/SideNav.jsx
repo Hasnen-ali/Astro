@@ -27,20 +27,9 @@ const SideNav = () => {
 						<NewForm />
 					</li>
 					<li>
-						<About />
-					</li>
-					<li>
 						<QuoteTable />
 					</li>
-					<li>
-						<Tests />
-					</li>
-					<li>
-						<Contact />
-					</li>
-					<li>
-						<About />
-					</li>
+					
 				</ul>
 			</div>
 		</>
